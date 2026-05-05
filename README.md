@@ -1,29 +1,36 @@
 # Aventura Sandbox
 
-I build AI-assisted products and operating systems for real-world use cases across healthcare, planning, and consumer experiences.
+Healthcare-focused GTM and product operator building AI-assisted software with Cursor.
 
-My work sits at the intersection of go-to-market thinking, product design, and rapid execution with modern AI tools. I use Cursor to go from idea to working software quickly, with a focus on clear positioning, usable demos, and systems that can actually be shipped.
+I work at the intersection of healthcare go-to-market, product strategy, and hands-on execution. I build and ship practical AI tools for regulated and mission-critical environments, with a focus on enterprise adoption, workflow fit, and measurable business outcomes.
 
-## What I Build
+## Why Healthcare + AI
 
-- AI-powered healthcare and clinical workflow products
-- Planning and multi-agent execution systems
-- Consumer-facing web and mobile experiences
-- Demo-ready prototypes that connect product strategy to execution
+Healthcare is one of the highest-impact and highest-complexity markets for AI. I am focused on bringing modern developer tooling and AI-native workflows into providers, payers, and health innovation teams where compliance, trust, and operational rigor matter.
 
-## Featured Projects
+## What I Bring
 
-- [Pumpkin-Metabolic](https://github.com/AventuraSandbox/Pumpkin-Metabolic) - metabolic resilience platform with Expo mobile, Supabase backend, and AI-powered planning
-- [TrialTwin](https://github.com/AventuraSandbox/TrialTwin) - digital twin platform for clinical trial matching, recruitment, and analytics
+- Experience translating ambiguous opportunities into clear GTM motions
+- Comfort navigating multi-stakeholder enterprise buying cycles
+- Strong product partnership mindset with engineering and design
+- Bias for shipping fast, learning quickly, and improving with evidence
+- Hands-on technical fluency to bridge executive priorities and implementation reality
+
+## Current Focus Areas
+
+- Healthcare AI workflow products
+- Enterprise sales readiness for technical products
+- Compliance-conscious deployment patterns (security, privacy, governance)
+- Repeatable pipeline, forecasting, and scaling discipline
+
+## Selected Work
+
+- [TrialTwin](https://github.com/AventuraSandbox/TrialTwin) - AI-powered digital twin platform for clinical trial matching, recruitment, and analytics
 - [Synovate-Health](https://github.com/AventuraSandbox/Synovate-Health) - healthcare technology monorepo with interactive assessments and deployment workflows
-- [Found-Aligned](https://github.com/AventuraSandbox/Found-Aligned) - premium matchmaking platform focused on lifestyle-aligned relationships
+- [Pumpkin-Metabolic](https://github.com/AventuraSandbox/Pumpkin-Metabolic) - metabolic resilience platform with Expo mobile, Supabase backend, and AI-powered planning
 - [CapacityPlanning](https://github.com/AventuraSandbox/CapacityPlanning) - crewAI-based capacity planning system with resource plans and Gantt chart generation
-- [VeloraPlan](https://github.com/AventuraSandbox/VeloraPlan) - AI-assisted project planning suite for sequencing, allocation, and delivery execution
+- [Found-Aligned](https://github.com/AventuraSandbox/Found-Aligned) - premium platform centered on high-trust, high-fit customer experiences
 
 ## How I Work
 
-I am especially interested in using AI tools to compress the distance between concept, prototype, and production-quality deliverable. That means combining product sense, sales intuition, and hands-on building to test ideas quickly and learn from real usage.
-
-## Current Focus
-
-Building practical AI products that are easy to demo, fast to iterate, and grounded in clear customer value.
+I like flat, high-talent teams that value truth-seeking, creativity, and direct debate. I move from strategy to execution quickly, using Cursor to prototype, test, and ship production-minded systems that create real customer value.
